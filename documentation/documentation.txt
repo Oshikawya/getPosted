@@ -49,5 +49,4 @@
 [2024/04/29] JSHHansaka                 : add template for contactus page
 >>>>>>> 737139ce47ffdf8f36d10989d328b32ec2af9678
 [2024/04/29 17.09] GOKawya              : Create a user profile update view page.
-=======
->>>>>>> 7e2b97bfd4d05b40c8a3d9f8f02af768d92348b0
+[2024/04/29 20.40] GOKawya              : Add user profile update view page to github.
